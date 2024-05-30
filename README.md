@@ -13,7 +13,7 @@ class Jesse {
   
     std::string education_ = "Unviversity of Illinois Urbana-Champaign";
     std::string major_ = "Computer Science";
-    std::string year_ = "Sophomore"
+    std::string year_ = "Junior"
     std::vector<std::string> prog_langs_ = {"C++", "C", "Python", "Javascript", "Kotlin"};
 }
 
