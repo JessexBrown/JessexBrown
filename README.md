@@ -1,4 +1,4 @@
-<h2> Hello, I am Jesse Brown!</h2>
+<h2> Hello, I am Jesse!</h2>
 <img alt"Kenny from South Park hitting a little boogie src="https://media1.giphy.com/media/wAKZXqfrepPvJDRY6y/giphy.gif?cid=790b76117ggof8k169kjt1mkuj455qfa9mzoe0186puo4tmh&ep=v1_gifs_search&rid=giphy.gif&ct=s" width=300 align=right>
 
 
